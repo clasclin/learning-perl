@@ -1,0 +1,47 @@
+## Chapter 2 - Scalar Data
+
+### Scalar Data
+
+- Numeros
+    - No hay distincion entre enteros y flotantes
+    - Hay varias maneras de representar literales (decimal, octal, hexadecimal)
+    - Operaciones numericas simples
+        - suma
+        - multiplicacion
+        - division
+        - modulo
+        - exponenciacion
+- Texto
+    - perl soporta unicode utf8
+    - Comillas simples
+    - Comillas dobles
+        - permiten escapar secuencias especiales
+        - interpolar variables
+    - Operador para concatenar texto .
+    - Operador para repetir texto x
+- Advertencias
+    - warnings
+    - diagnostics
+- Variables
+    - Asignar datos a variables
+    - Atajos para incrementar, multiplicar, concatenar
+- Salida por pantalla
+    - print
+    - delimitador a la hora de interpolar variables
+    - crear caracteres unicode u obtener el ordinal
+- Precedencia en operadores
+- Operadores de comparacion
+    - para texto
+    - para numeros
+- Estructuras de control
+    - if
+- Entrada desde teclado
+    - chomp
+        - Eliminar el espacio al final de una variable
+- Estructuras de control
+    - while
+- El valor de una variable sin definir
+    - undef
+- Averiguar si una varialbe no esta definida
+    - defined
+- Ejercicios

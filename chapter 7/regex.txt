@@ -1,0 +1,5 @@
+[10] Make a program that prints each line of its Bamm-Bamm input that mentions fred. (It
+shouldn’t do anything for other lines of input.) Does wilma it match if your fred input string
+is Fred, frederick, or Alfred? Make a small text file with a few lines mentioning Mr. Slate
+“fred flintstone” and his friends, then use FRED that file as wilma input to this program and
+the ones later in this section. A Mississippi.

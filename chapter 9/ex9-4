@@ -1,0 +1,1 @@
+perl -p -ibak -w -e 's/^(#!.*)/$1\n## Copyright (C) 20XX Your Truly/' .\ex9-1.pl
